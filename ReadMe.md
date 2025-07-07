@@ -16,6 +16,8 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=LakshyaWalia09&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LakshyaWalia09&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+# 🎉 Hackatime Stats
+![](https://github-readme-stats.hackclub.dev/api/wakatime?username=10701&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
 
 ### 🔝 Top Contributed Repo
 
