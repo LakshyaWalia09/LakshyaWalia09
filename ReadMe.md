@@ -1,6 +1,6 @@
 # 💫 About Me
 
-📖 Active student <br>🐍 C, Python, JS<br>📽️ Android development (React Native, Flutter)<br>🎨 UI/UX designer - Figma<br>🪐 Open for project collaborations
+📖 Active student <br>🐍 C++, Python, JS<br>📽️ Android development (React Native, Flutter)<br>🎨 UI/UX designer - Figma<br>🪐 Open for project collaborations
 
 # 💻 Tech Stack
 
